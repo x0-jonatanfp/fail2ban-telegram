@@ -150,8 +150,8 @@
 
 ![Preview](assets/preview.png)
 
-## 📫 Contacto
+### 📫 Conectarme
 
-- **Email:** [info@jonatanfp.net](mailto:info@jonatanfp.net)
+- **Email:** [jonatanfp@x0void.com](mailto:jonatanfp@x0void.com)
 - **Instagram:** [@jonatanfp\_](https://instagram.com/jonatanfp_)
-- **X Corp:** [@jonatanfp\_](https://twitter.com/jonatanfp_)
+- **X Corp / Twitter:** [@jonatanfp\_](https://twitter.com/jonatanfp_)
