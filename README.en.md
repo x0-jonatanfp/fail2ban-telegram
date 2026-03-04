@@ -1,5 +1,8 @@
 # Create a Telegram Bot and Integrate It with Fail2ban for Alerts
 
+> [!NOTE]
+> **[Versión en español disponible aquí](README.md)** | Spanish version available here.
+
 ## 1. Create a Telegram Bot
 
 1. Open the Telegram app and search for the user `@BotFather`.
